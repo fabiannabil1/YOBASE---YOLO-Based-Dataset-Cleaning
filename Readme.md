@@ -1,6 +1,4 @@
-# YOLO Cleaner: Smart Image Filtering with YOLO
-
-YOLO Cleaner is a Python utility that leverages the power of the YOLO (You Only Look Once) model to automatically scan through image folders and remove images that do not contain a person. With options for multithreading and adjustable detection parameters, this tool streamlines the process of curating datasets or cleaning up image collections.
+# YOLO Cleaner: Smart Image Filtering with YOBASE (YOLO Based Data Cleaning) is a Python utility that leverages the power of the YOLO (You Only Look Once) model to automatically scan through image folders and remove images that do not contain a person. With options for multithreading and adjustable detection parameters, this tool streamlines the process of curating datasets or cleaning up image collections.
 
 ---
 
